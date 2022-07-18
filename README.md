@@ -1,5 +1,5 @@
 # nbs.sk spider
-Scrapy crawler using requests module to scrape data from nbs.sk website. The result is saved in a sqlite3 database. Using FastAPI the database is loaded and the items are listed when using endpoints.
+Scrapy crawler using requests module to scrape data from nbs.sk website. The result is saved in a sqlite3 database. Using FastAPI the database is loaded and the items are listed, can be deleted, and can be found by id when using endpoints.
 # Installation
 To install and run this project we need
 1. Clone the project  
